@@ -1,0 +1,17 @@
+body
+{
+	background-color:#eee;
+}
+div#content
+{
+	width:700px;
+	border-radius:6px;
+	margin:0 auto;
+	background-color:#fff;
+	box-shadow:1px 1px 3px #6c7492;
+	padding:20px;
+}
+h1, h3
+{
+	text-align:center;
+}
