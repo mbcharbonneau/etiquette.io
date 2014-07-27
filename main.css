@@ -10,7 +10,15 @@ div#content
 	margin:20px auto;
 	background-color:#fff;
 	box-shadow:1px 1px 3px #6c7492;
-	padding:20px;
+}
+div#content h2, div#content ul
+{
+	margin-left:20px;
+	margin-right:20px;
+}
+h1
+{
+	padding-top:20px;
 }
 h1, .tagline
 {
@@ -43,4 +51,8 @@ a:hover, #content a:hover, .footer a:hover
 a:link, a:visited
 {
 	color:#00A9E0;
+}
+li
+{
+	margin-bottom:6px;
 }
