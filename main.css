@@ -7,10 +7,14 @@ div#content
 {
 	width:700px;
 	border-radius:6px;
-	margin:0 auto;
+	margin:20px auto;
 	background-color:#fff;
 	box-shadow:1px 1px 3px #6c7492;
 	padding:20px;
+}
+h1, .tagline
+{
+	margin:0;
 }
 h1, h3, p.footer
 {
@@ -30,5 +34,13 @@ h1, h2, h3
 }
 .footer a:link, .footer a:visited
 {
-    color: #5E5E5E;
+    color:#5E5E5E;
+}
+a:hover, #content a:hover, .footer a:hover
+{
+	color:#67CDDC;
+}
+a:link, a:visited
+{
+	color:#00A9E0;
 }
