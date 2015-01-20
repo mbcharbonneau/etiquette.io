@@ -17,6 +17,10 @@ div#content ul
 	margin-left:20px;
 	margin-right:20px;
 }
+div#content img
+{
+	width:100%;
+}
 h1
 {
 	padding-top:20px;
