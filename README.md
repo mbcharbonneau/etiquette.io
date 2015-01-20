@@ -1,6 +1,6 @@
-# Wearable Etiquette
+# Digital Etiquette
 
-[Wearable Etiquette](http://etiquette.io) is a look at how future technology is impacting our society. For feedback, reach out to [@mbcharbonneau](http://twitter.com/mbcharbonneau) on Twitter.
+[Digital Etiquette](http://etiquette.io) is a look at how future technology is impacting our society. Illustrations by [Christopher Reineman](http://twitter.com/feel_afraid). For feedback, reach out to [@mbcharbonneau](http://twitter.com/mbcharbonneau) on Twitter.
 
 ##License
 
