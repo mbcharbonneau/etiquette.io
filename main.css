@@ -9,13 +9,17 @@ div#content
 	width:700px;
 	border-radius:0 0 6px 6px;
 	margin:0px auto;
-	background-color:#fff;
-	box-shadow:1px 1px 3px #6c7492;
 }
 div#content p
 {
 	margin:20px;
-    text-align: justify;
+	padding-bottom:20px;
+    text-align:justify;
+}
+div#content .section
+{
+	background-color:#fff;
+	box-shadow:1px 1px 3px #6c7492;
 }
 div#content ul
 {
