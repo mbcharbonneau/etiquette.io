@@ -7,7 +7,6 @@ body
 div#content
 {
 	width:700px;
-	border-radius:0 0 6px 6px;
 	margin:0px auto;
 }
 div#content p
@@ -30,6 +29,7 @@ div#content img
 {
 	width:100%;
 }
+
 h1
 {
 	padding-top:20px;
@@ -46,28 +46,49 @@ h1, h2, h3
 {
 	font-weight:normal;
 }
-h2
+
+.section-title
+{
+	margin:40px 0 0 0;
+	padding:6px 20px 6px 20px;
+}
+.section-title a:link, .section-title a:visited
+{
+	float:right;
+	color:#fff;
+	font-size:1.5em;
+	margin:2px 6px;
+	opacity:0.3;
+}
+#content .section-title a:hover
 {
 	color:#fff;
-	padding:6px 20px 6px 20px;
-	margin-left:0;
+	opacity:1.0;
 }
-h2.red
+.section-title h2
+{
+	font-size:1.5em;
+	display:inline;
+	color:#fff;
+}
+
+.red
 {
 	background-color:#C93B3D;
 }
-h2.green
+.green
 {
 	background-color:#5A9085;
 }
-h2.purple
+.purple
 {
 	background-color:#875080;
 }
-h2.orange
+.orange
 {
 	background-color:#DD933C;
 }
+
 .tagline
 {
 	font-style:italic;
